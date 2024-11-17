@@ -1,0 +1,25 @@
+img{
+    width: 75%;
+    height: 378px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1{
+    text-align: center;
+    font-family: "Lucida Handwriting", cursive;
+}
+body{
+    background: linear-gradient(to right, #00ffaa, #9500ff);
+}
+a{
+    text-decoration: none;
+    font-size: 3vw;
+    font-family: Papyrus, fantasy;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+  
